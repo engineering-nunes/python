@@ -1,2 +1,2 @@
 # python
-My python projects.
+Some Python tests and challenges.
